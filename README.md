@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ch0pard
-- 👀 I’m interested in Minecraft
-- 🌱 I’m currently learning Nothing
+- 👀 I’m interested in minecraft bukkit
+- 🌱 I’m currently learning nothing
 - 💞️ I’m looking to collaborate on Nothing
 - 📫 How to reach me Ch0pard#2504
 
