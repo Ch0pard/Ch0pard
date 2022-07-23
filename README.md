@@ -2,7 +2,7 @@
 - 👀 I’m interested in Minecraft
 - 🌱 I’m currently learning Nothing
 - 💞️ I’m looking to collaborate on Nothing
-- 📫 How to reach me qq814774058 or Ch0pard#2504
+- 📫 How to reach me Ch0pard#2504
 
 <!---
 Ch0pard/Ch0pard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
